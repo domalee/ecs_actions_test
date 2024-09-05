@@ -2,7 +2,7 @@
     "family": "my-task-family",
     "containerDefinitions": [
         {
-            "name": "my-app",
+            "name": "my-container",
             "image": "nginx",
             "cpu": 0,
             "portMappings": [
